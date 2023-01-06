@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-04T19:43:23 EST" name="Default suite" finished-at="2023-01-04T19:43:45 EST" duration-ms="21702">
+    <groups>
+    </groups>
+    <test started-at="2023-01-04T19:43:23 EST" name="Default test" finished-at="2023-01-04T19:43:45 EST" duration-ms="21702">
+      <class name="tests.MainTest">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:tests.MainTest@593aaf41]" started-at="2023-01-04T19:43:23 EST" name="setupDriver" finished-at="2023-01-04T19:43:28 EST" duration-ms="5253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method signature="launchFacebook()[pri:0, instance:tests.MainTest@593aaf41]" started-at="2023-01-04T19:43:28 EST" name="launchFacebook" finished-at="2023-01-04T19:43:30 EST" duration-ms="2243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchFacebook -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:tests.MainTest@593aaf41]" started-at="2023-01-04T19:43:30 EST" name="closeDriver" finished-at="2023-01-04T19:43:32 EST" duration-ms="1493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:tests.MainTest@593aaf41]" started-at="2023-01-04T19:43:32 EST" name="setupDriver" finished-at="2023-01-04T19:43:35 EST" duration-ms="3033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method signature="launchGoogle()[pri:0, instance:tests.MainTest@593aaf41]" started-at="2023-01-04T19:43:35 EST" name="launchGoogle" finished-at="2023-01-04T19:43:37 EST" duration-ms="2408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchGoogle -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:tests.MainTest@593aaf41]" started-at="2023-01-04T19:43:37 EST" name="closeDriver" finished-at="2023-01-04T19:43:38 EST" duration-ms="1025" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:tests.MainTest@593aaf41]" started-at="2023-01-04T19:43:38 EST" name="setupDriver" finished-at="2023-01-04T19:43:41 EST" duration-ms="3091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method signature="launchWiki()[pri:0, instance:tests.MainTest@593aaf41]" started-at="2023-01-04T19:43:41 EST" name="launchWiki" finished-at="2023-01-04T19:43:44 EST" duration-ms="2207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchWiki -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:tests.MainTest@593aaf41]" started-at="2023-01-04T19:43:44 EST" name="closeDriver" finished-at="2023-01-04T19:43:45 EST" duration-ms="878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- tests.MainTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
